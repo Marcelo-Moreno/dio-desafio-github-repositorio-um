@@ -1,2 +1,4 @@
-# dio-desafio-github-repositorio-um
-Repositório criado para realização de um desafio de Projeto da Digital Innovation One (DIO)
+# Repositório do Desafio de Projeto sobre Git/Github da Digital Innovation One (DIO)
+## Links úteis
+[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax)
+
